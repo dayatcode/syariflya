@@ -1,5 +1,5 @@
 ### Hello ~ I'm Syarif <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
-<img src="https://i.ibb.co/mXb8RdT/9b44268d-aea0-4cea-bef5-c4ff5dad59f2.jpg" width=750 height="350" align="center">
+<img src="https://i.ibb.co/mXb8RdT/9b44268d-aea0-4cea-bef5-c4ff5dad59f2.jpg" width=250 height="250" align="center">
 <center>
 Connect with me :
 
@@ -20,26 +20,3 @@ Donate Me On:
 
 * [`Saweria`](https://saweria.co/Liyabot)
 
-<img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/donate.png" width=350 height="350" align="center">
-<center>
-
----
-## Has been delete
-<img src="https://github.com/Fxc7" width="350px">
-<center>
-
-## Stats
-
-<a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api?username=Fxc7&show_icons=true&theme=radical"></a>
-<a href="https://github.com/Fxc7"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxc7&theme=highcontrast&layout=compact"></a>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=Fxc7 &show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fxc7&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="Fxc7"/> </p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fxc7">
-</p>
-
-## Trophies
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Fxc7&row=2&column=3"/>
