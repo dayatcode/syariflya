@@ -18,8 +18,7 @@ want be friends with me?
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 Donate Me On:
 
-* [`Saweria`](https://saweria.co/FarhanXCo)
-* [`Trakteer`](https://trakteer.id/FarhanXCo)
+* [`Saweria`](https://saweria.co/Liyabot)
 
 <img src="https://raw.githubusercontent.com/NazwaS/NazwaS/main/img/donate.png" width=350 height="350" align="center">
 <center>
