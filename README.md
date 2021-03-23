@@ -1,4 +1,4 @@
-### Hello ~ I'm Fxc7 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
+### Hello ~ I'm Syarif <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 <img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png" width=750 height="350" align="center">
 <center>
 Connect with me :
