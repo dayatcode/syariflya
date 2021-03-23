@@ -12,7 +12,7 @@ Connect with me :
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 
 
-## Group WhatsApp
+## Group
 
 * <a href="https://chat.whatsapp.com/FVs9Fgszl7e2Y35tX2vIVs"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
