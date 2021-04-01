@@ -1,5 +1,5 @@
 ### Hello ~ I'm Syarif <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
-<img src="https://i.ibb.co/mXb8RdT/9b44268d-aea0-4cea-bef5-c4ff5dad59f2.jpg" width=250 height="250" align="center">
+<img src="https://i.ibb.co/JtB3tCG/1-Anime-Apparel-Clothes-Cosplay-Figures-Anime-Goodys-1.jpg" width=250 height="250" align="center">
 <center>
 Connect with me :
 
