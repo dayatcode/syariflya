@@ -1,9 +1,7 @@
 ### Hello~ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">
 <img src="https://i.ibb.co/kqXWd9m/Choke-me-Daddy-BTS-x-you.jpg" width=250 height="250" align="center">
 <center>
-Connect with me :
 
-<a href="https://instagram.com/dyat_xd"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;   <a href="https://instagram.com/dyat_xd"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a>
  &nbsp;&nbsp; 
 
 
